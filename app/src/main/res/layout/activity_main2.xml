@@ -16,7 +16,6 @@
 
     <Button
         android:id="@+id/button3"
-        too:layout_editor_absoluteX="210dp"
         android:layout_width="115dp"
         android:layout_height="66dp"
         android:text="成績"

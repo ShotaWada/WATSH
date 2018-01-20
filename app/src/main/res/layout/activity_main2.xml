@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.wadashouta.watshanpanaitte.Main2Activity">
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="110dp"
+        android:layout_height="66dp"
+        android:text="選手紹介"
+        tools:layout_editor_absoluteX="225dp"
+        tools:layout_editor_absoluteY="142dp" />
+
+    <Button
+        android:id="@+id/button3"
+        too:layout_editor_absoluteX="210dp"
+        android:layout_width="115dp"
+        android:layout_height="66dp"
+        android:text="成績"
+        tools:layout_editor_absoluteX="179dp"
+        tools:layout_editor_absoluteY="311dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="387dp"
+        android:layout_height="68dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="451dp" />
+</android.support.constraint.ConstraintLayout>
